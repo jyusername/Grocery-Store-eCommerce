@@ -1,7 +1,7 @@
 <?php
  
 namespace App\Controllers;
-
+ 
 use App\Models\ProductModel;
 use App\Models\UserModel;
 use CodeIgniter\Controller;
